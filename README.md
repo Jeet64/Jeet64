@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JEET RATHORE</h1>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281.htm#query=web%20development%20banner&position=1&from_view=keyword&track=ais&uuid=1656f38a-f2f6-47f7-b491-a6817b5e8c3c)"
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
